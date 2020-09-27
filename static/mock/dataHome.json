@@ -1,0 +1,248 @@
+{
+    "data": [
+        {
+            "city": "北京",
+            "swiperList": [
+                {
+                "id":"01",
+                "imgUrl":"http://localhost:8080/static/img/swiper1.jpg"
+                },
+                {
+                "id":"02",
+                "imgUrl":"http://localhost:8080/static/img/swiper2.jpg"
+                }
+            ],
+            "iconsList":[
+                {
+                    "id":"01",
+                    "imgUrl":"http://localhost:8080/static/img/icon1.png",
+                    "title":"景点门票"
+                },{
+                    "id":"02",
+                    "imgUrl":"http://localhost:8080/static/img/icon2.png",
+                    "title":"必游榜单"
+                },{
+                    "id":"03",
+                    "imgUrl":"http://localhost:8080/static/img/icon3.png",
+                    "title":"夏日玩水"
+                },{
+                    "id":"04",
+                    "imgUrl":"http://localhost:8080/static/img/icon4.png",
+                    "title":"主题乐园"
+                },{
+                    "id":"05",
+                    "imgUrl":"http://localhost:8080/static/img/icon5.png",
+                    "title":"动植物园"
+                },{
+                    "id":"06",
+                    "imgUrl":"http://localhost:8080/static/img/icon6.png",
+                    "title":"故宫"
+                },{
+                    "id":"07",
+                    "imgUrl":"http://localhost:8080/static/img/icon7.png",
+                    "title":"一日游"
+                },{
+                    "id":"08",
+                    "imgUrl":"http://localhost:8080/static/img/icon8.png",
+                    "title":"公园"
+                },{
+                    "id":"09",
+                    "imgUrl":"http://localhost:8080/static/img/icon9.png",
+                    "title":"游乐场"
+                },{
+                    "id":"10",
+                    "imgUrl":"http://localhost:8080/static/img/icon10.png",
+                    "title":"全部玩乐"
+                }
+            ],
+            "hotList": [
+                {
+                    "id":"01",
+                    "imgUrl": "https://imgs.qunarzz.com/vs_ceph_b2c_001/3c3d3ac2-a21f-44ff-8b23-ca713125939a.jpg_304x201_e83e6440.jpg",
+                    "title": "故宫",
+                    "mark": "20"
+                },{
+                    "id":"02",
+                    "imgUrl": "https://img1.qunarzz.com/order/comp/2009/94/9cd9e7013a338202.png",
+                    "title": "十度聚龙湾玻璃栈道",
+                    "mark": "35"
+                },{
+                    "id":"03",
+                    "imgUrl": "https://imgs.qunarzz.com/sight/p0/1708/2b/2b3b94de99c0a425a3.img.jpg_252x180_043d1df2.jpg",
+                    "title": "八达岭长城",
+                    "mark": "25"
+                },{
+                    "id":"04",
+                    "imgUrl": "https://imgs.qunarzz.com/sight/p0/1501/40/40b2b6c951b28fdd.water.jpg_252x180_bd4a9faf.jpg",
+                    "title": "水立方",
+                    "mark": "14"
+                },{
+                    "id":"05",
+                    "imgUrl": "https://imgs.qunarzz.com/sight/p73/201211/03/20b17c810ba4e0f193835fbb.jpg_750x500_3b1cb6dc.jpg",
+                    "title": "定陵",
+                    "mark": "50"
+                }
+            ],
+            "likeList": [
+                {
+                    "id": "01",
+                    "imgUrl": "https://imgs.qunarzz.com/sight/p0/1609/7a/7ae8ee7831836095a3.water.jpg_750x500_53bae18b.jpg",
+                    "title": "金海湖风景区",
+                    "msg": "1341条评论",
+                    "pre": "18.8",
+                    "map": "平谷区"
+                },
+                {
+                    "id": "02",
+                    "imgUrl": "https://imgs.qunarzz.com/sight/p0/1909/ba/ba2400045659bc99a3.img.jpg_750x500_cc750cc9.jpg",
+                    "title": "北京国际鲜花港",
+                    "msg": "1900条评论",
+                    "pre": "28.8",
+                    "map": "顺义区"
+                }
+            ],
+            "vacationList": [
+                {
+                    "id": "01",
+                    "imgUrl": "https://imgs.qunarzz.com/vs_ceph_vs_tts/9bc8e193-b810-4664-963a-cb30eda29303.jpg_180x120x90_a55dd61e.jpg",
+                    "title": "漂流勇进、烧烤露营",
+                    "msg": "轻松水上漂，任我乐逍遥"
+                },
+                {
+                    "id": "02",
+                    "imgUrl": "https://imgs.qunarzz.com/vs_ceph_b2c_001/e4c04929-e54a-4ac4-bf1a-043f06442d73.jpg_180x120x90_7c6d29ad.jpg",
+                    "title": "北京清凉避暑胜地",
+                    "msg": "到大自然享受“天然空调”的清凉"
+                },
+                {
+                    "id": "03",
+                    "imgUrl": "https://imgs.qunarzz.com/vs_ceph_vs_tts/afb971fb-eb1e-4fa7-b7ee-ccb680068bac.jpg_r_390x260x95_8ff465fc.jpg",
+                    "title": "北京必游TOP10",
+                    "msg": "来北京必去的景点非这些地方莫属"
+                }
+            ]
+        },
+        {
+            "city": "上海",
+            "swiperList": [
+                {
+                "id":"01",
+                "imgUrl":"http://localhost:8080/static/img/swiper1.jpg"
+                },
+                {
+                "id":"02",
+                "imgUrl":"http://localhost:8080/static/img/swiper2.jpg"
+                }
+            ],
+            "iconsList":[
+                {
+                    "id":"01",
+                    "imgUrl":"http://localhost:8080/static/img/icon1.png",
+                    "title":"景点门票"
+                },{
+                    "id":"02",
+                    "imgUrl":"http://localhost:8080/static/img/icon2.png",
+                    "title":"必游榜单"
+                },{
+                    "id":"03",
+                    "imgUrl":"http://localhost:8080/static/img/icon3.png",
+                    "title":"夏日玩水"
+                },{
+                    "id":"04",
+                    "imgUrl":"http://localhost:8080/static/img/icon4.png",
+                    "title":"主题乐园"
+                },{
+                    "id":"05",
+                    "imgUrl":"http://localhost:8080/static/img/icon5.png",
+                    "title":"动植物园"
+                },{
+                    "id":"06",
+                    "imgUrl":"http://localhost:8080/static/img/icon11.png",
+                    "title":"东方明珠"
+                },{
+                    "id":"07",
+                    "imgUrl":"http://localhost:8080/static/img/icon7.png",
+                    "title":"一日游"
+                },{
+                    "id":"08",
+                    "imgUrl":"http://localhost:8080/static/img/icon8.png",
+                    "title":"公园"
+                },{
+                    "id":"09",
+                    "imgUrl":"http://localhost:8080/static/img/icon9.png",
+                    "title":"游乐场"
+                },{
+                    "id":"10",
+                    "imgUrl":"http://localhost:8080/static/img/icon10.png",
+                    "title":"全部玩乐"
+                }
+            ],
+            "hotList": [
+                {
+                    "id":"01",
+                    "imgUrl": "https://imgs.qunarzz.com/tuan/team2/1507/2c/83e0e0e7ae082a.jpg_252x180_91486514.jpg",
+                    "title": "东方明珠",
+                    "mark": "30"
+                },{
+                    "id":"02",
+                    "imgUrl": "https://img1.qunarzz.com/order/comp/2009/94/9cd9e7013a338202.png",
+                    "title": "十度聚龙湾玻璃栈道",
+                    "mark": "35"
+                },{
+                    "id":"03",
+                    "imgUrl": "https://imgs.qunarzz.com/sight/p0/1708/2b/2b3b94de99c0a425a3.img.jpg_252x180_043d1df2.jpg",
+                    "title": "八达岭长城",
+                    "mark": "25"
+                },{
+                    "id":"04",
+                    "imgUrl": "https://imgs.qunarzz.com/sight/p0/1501/40/40b2b6c951b28fdd.water.jpg_252x180_bd4a9faf.jpg",
+                    "title": "水立方",
+                    "mark": "14"
+                },{
+                    "id":"05",
+                    "imgUrl": "https://imgs.qunarzz.com/sight/p73/201211/03/20b17c810ba4e0f193835fbb.jpg_750x500_3b1cb6dc.jpg",
+                    "title": "定陵",
+                    "mark": "50"
+                }
+            ],
+            "likeList": [
+                {
+                    "id": "01",
+                    "imgUrl": "https://imgs.qunarzz.com/sight/p0/1609/7a/7ae8ee7831836095a3.water.jpg_750x500_53bae18b.jpg",
+                    "title": "金海湖风景区",
+                    "msg": "1341条评论",
+                    "pre": "18.8",
+                    "map": "平谷区"
+                },
+                {
+                    "id": "02",
+                    "imgUrl": "https://imgs.qunarzz.com/sight/p0/1909/ba/ba2400045659bc99a3.img.jpg_750x500_cc750cc9.jpg",
+                    "title": "北京国际鲜花港",
+                    "msg": "1900条评论",
+                    "pre": "28.8",
+                    "map": "顺义区"
+                }
+            ],
+            "vacationList": [
+                {
+                    "id": "01",
+                    "imgUrl": "https://imgs.qunarzz.com/vs_ceph_vs_tts/9bc8e193-b810-4664-963a-cb30eda29303.jpg_180x120x90_a55dd61e.jpg",
+                    "title": "漂流勇进、烧烤露营",
+                    "msg": "轻松水上漂，任我乐逍遥"
+                },
+                {
+                    "id": "02",
+                    "imgUrl": "https://imgs.qunarzz.com/vs_ceph_b2c_001/e4c04929-e54a-4ac4-bf1a-043f06442d73.jpg_180x120x90_7c6d29ad.jpg",
+                    "title": "北京清凉避暑胜地",
+                    "msg": "到大自然享受“天然空调”的清凉"
+                },
+                {
+                    "id": "03",
+                    "imgUrl": "https://imgs.qunarzz.com/vs_ceph_vs_tts/afb971fb-eb1e-4fa7-b7ee-ccb680068bac.jpg_r_390x260x95_8ff465fc.jpg",
+                    "title": "北京必游TOP10",
+                    "msg": "来北京必去的景点非这些地方莫属"
+                }
+            ]
+        }
+    ]
+}
